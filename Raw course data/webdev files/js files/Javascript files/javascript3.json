@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "sG-AHy6-B8JoB2Fgiz8InkAqA6M",
+    "nextPageToken": "CJYBEAA",
+    "prevPageToken": "CGQQAQ",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 325733,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AVpM6Ux59VYlIRp-9Dn3g6PLyXI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDoPjvoNmBAy9nFRJgVYgEID8xE2a6q6V"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-13T05:04:00Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn Javascript Bom",
+          "description": "Learn everything about Javascript Browser Object Model.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cMW4963o6Qo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cMW4963o6Qo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cMW4963o6Qo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-08-13T05:04:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MQP5lJ_eenm18qCQxwEvNHg20Gc",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLNa0O-WeED7xs-nJ6z6LpQJYUNH5tj3Z9"
+        },
+        "snippet": {
+          "publishedAt": "2020-09-23T23:59:21Z",
+          "channelId": "UCCiNCBTOej6jUkkz5wqv1Hg",
+          "title": "Basic to Advanced JavaScript Tutorials 2020",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9cTBqHgpHJg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9cTBqHgpHJg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9cTBqHgpHJg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Freelancer Nasim",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-09-23T23:59:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L0yZWIbeuD1YSz00TOG1GrISO9c",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-14T15:27:56Z",
+          "channelId": "UCwczk9A3ITHTZT6W_9nalqg",
+          "title": "JavaScript Advanced 2020",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Pb62kgDlbYo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Pb62kgDlbYo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Pb62kgDlbYo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CodersX",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-14T15:27:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_wIJtzLjuTMhz5KuKg464mOnEmQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2"
+        },
+        "snippet": {
+          "publishedAt": "2020-09-24T18:08:06Z",
+          "channelId": "UCsMica-v34Irf9KVTh6xx-g",
+          "title": "Beginner&#39;s Series to: JavaScript",
+          "description": "Learning a new framework or development environment is made even more difficult when you don't know the programming language. Fortunately, we're here to ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_EDM5aPVLmo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_EDM5aPVLmo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_EDM5aPVLmo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Microsoft Developer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-09-24T18:08:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bbNBTPlOawnb765kxvIOfXCF8XY",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLjw-30bsJNVUpFTm9FDof8B91uI3iorDH"
+        },
+        "snippet": {
+          "publishedAt": "2016-09-05T05:51:53Z",
+          "channelId": "UC7WHt6e6SnAAeCrSyNDZ5Iw",
+          "title": "はじめてのJavaScript入門講座",
+          "description": "JavaScriptの基礎が学べる入門講座です。プログラミング初心者でも、テキストエディタとPCだけあればすぐに実践できます。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8tbOF18zoP0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8tbOF18zoP0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8tbOF18zoP0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TechAcademy [テックアカデミー]",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-09-05T05:51:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A92g8yRDWEJYe6D3l2jKU7Ocpiw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-01T07:38:33Z",
+          "channelId": "UCO1cgjhGzsSYb1rsB4bFe4Q",
+          "title": "Object Creation in JavaScript",
+          "description": "A series about how to do Object Creation in JavaScript. I will NOT be teaching object orientation principles in general - this video series is for you if you're ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GhbhD1HR5vk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GhbhD1HR5vk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GhbhD1HR5vk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Fun Fun Function",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-08-01T07:38:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Mlt6Wps8BStMBqUtB-5ezWcq6L0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr"
+        },
+        "snippet": {
+          "publishedAt": "2017-09-26T01:05:01Z",
+          "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+          "title": "16: Topics of JavaScript/ES6-ES8 - p5.js Tutorial",
+          "description": "This playlist contains different ES6 - ECMAScript2015 related videos.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/q8SHaDQdul0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/q8SHaDQdul0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/q8SHaDQdul0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Coding Train",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-09-26T01:05:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kwXP1FhahXEAelyeFbbaAuS-lC4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLBZBJbE_rGRXBhJNdKbN7IUy-ctlOFxA1"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-19T16:29:04Z",
+          "channelId": "UCxX9wt5FWQUAAz4UrysqK9A",
+          "title": "Building a real startup with Python and JavaScript",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UyQn0BhVqNU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UyQn0BhVqNU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UyQn0BhVqNU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CS Dojo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-19T16:29:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qciK1KsJIJBt02pdV6SuHjWztqU",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLYrQFCVhfFIvLARCdl9q5WyPnfRBX4rUT"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-14T20:18:21Z",
+          "channelId": "UCfvhSd0KMNry13opvgGe2eA",
+          "title": "JavaScript Tutorial Italiano Completo",
+          "description": "In questo tutorial descriverò con esempi ed esercizi tutto quello che serve imparare per cominciare a sviluppare con JavaScript.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4DClDdmIaWQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4DClDdmIaWQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4DClDdmIaWQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Achille1789",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-14T20:18:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vE3v7qrxbfOAoOdS929KBZtqHnE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLMYF6NkLrdN-YRGdm0LghElMhz-7O_DL8"
+        },
+        "snippet": {
+          "publishedAt": "2017-09-19T09:39:57Z",
+          "channelId": "UC7OGxluGpaD5NHMNoKj33pw",
+          "title": "دورة  JavaScript  بالعربي",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R_ejkgZwQIs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R_ejkgZwQIs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R_ejkgZwQIs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Muhammed Essa",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-09-19T09:39:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2bK2gxvm046h2lFWT9Rrz3Q8H9M",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLdE8ESr9Th_seeZTebEFavp257vds9ph5"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-02T05:14:12Z",
+          "channelId": "UC3Bdolw5nlwMSBa3sex6R4g",
+          "title": "JavaScript Tutorials",
+          "description": "JavaScript Tutorials: Learn JavaScript scripting from basics to advance for beginners to professionals. In this tutorial series we are going to discuss each and ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6_wH9J8B68s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6_wH9J8B68s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6_wH9J8B68s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chidre'sTechTutorials",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-07-02T05:14:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lVhdK_L6RT8ZF5AB-e-jnTVWvK0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL6n9fhu94yhUlURq2QyAu_ABMcY1dcxtS"
+        },
+        "snippet": {
+          "publishedAt": "2015-02-25T21:47:41Z",
+          "channelId": "UCCTVrRB5KpIiK6V2GGVsR1Q",
+          "title": "JavaScript with ASP.NET tutorial",
+          "description": "In this course we will discuss using JavaScript in an ASP.NET web forms application for client side functionality. The following are the topics discussed. Please ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W8OoHmVP8iM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W8OoHmVP8iM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W8OoHmVP8iM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "kudvenkat",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-02-25T21:47:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "H_lrKJI99n10vbl9N9wGqyF0sZc",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLmOn9nNkQxJFubqN777c_nScnJ4dpEYMT"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-10T11:02:06Z",
+          "channelId": "UCIgDN-g8qBfjtcu0UfkgdEA",
+          "title": "【尚硅谷】JavaScript教程视频 140集实战教学，从入门到精通 2019适合零基础by李立超 【提供源码笔记】",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1N7Ia2e5RBE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1N7Ia2e5RBE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1N7Ia2e5RBE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "尚硅谷IT培训学校",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-10T11:02:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nZKTUjmCjr2E19ST2ojYHrfAuPs",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL3rNcyAiDYK2_87aRvXEmAyD8M9DARVGK"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-18T15:06:05Z",
+          "channelId": "UCdXorgCT87YlFRN9n8oJ7_A",
+          "title": "Learn JavaScript on the Now Platform",
+          "description": "Learn JavaScript directly through examples on the Now Platform.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/62Nabpb94Jw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/62Nabpb94Jw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/62Nabpb94Jw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ServiceNow Dev Program",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-18T15:06:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7AXCBfxkxL42sdPpMZ0K7npMMQg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-26T18:49:24Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "JavaScript Big Tutorials",
+          "description": "JavaScript Big Tutorials to Improve Your JavaScript Skills and Apply What You Learn in The Basic Course.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AeXkyj4mXms/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AeXkyj4mXms/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AeXkyj4mXms/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-26T18:49:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QLvekV71DjtqyXf47jEor473Dr4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLLAJJPGNwNkgMIv4MMe08xLYJyHWqrjut"
+        },
+        "snippet": {
+          "publishedAt": "2016-06-26T07:54:58Z",
+          "channelId": "UCl85rcoLszFv_qCL1hcOB2g",
+          "title": "Học Javascript cơ bản và nâng cao",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aeNRVbyn2fc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aeNRVbyn2fc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aeNRVbyn2fc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thư Viện Lập Trình",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-06-26T07:54:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "v8j-s2wbZQiEzinVuM2fvyjIeW0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL_c9BZzLwBRLVh9OdCBYFEql6esA6aRsi"
+        },
+        "snippet": {
+          "publishedAt": "2013-08-17T18:55:26Z",
+          "channelId": "UCZUyPT9DkJWmS_DzdOi7RIA",
+          "title": "JavaScript",
+          "description": "This playlist is an introductory course to the concepts behind JavaScript! This series will better help you understand how JavaScript works behind the scenes.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9M4XKi25I2M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9M4XKi25I2M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9M4XKi25I2M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Caleb Curry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-08-17T18:55:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6IKPTRsLZYXO-jL75E5bM7ABkCM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLRhlTlpDUWsxVCluXaURF6NA_Q6uTSBFm"
+        },
+        "snippet": {
+          "publishedAt": "2017-01-20T15:52:49Z",
+          "channelId": "UC9VbY1nPhWbAkBuEaAy0CNQ",
+          "title": "Java Script căn bản cho người mới bắt đầu",
+          "description": "Khóa học JavaScript căn bản được của TEDU cung cấp cho các bạn nền tảng kiến thức JS vững chắc để giúp các bạn có thêm tự tin để tiếp cận các Framework ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6TCnoaNUD9M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6TCnoaNUD9M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6TCnoaNUD9M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TEDU Channel",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-01-20T15:52:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rP4rtiif8A06Gx9LQ10sDn6Ue3s",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL5BcU-_5Oa_opds6Nbnx5xUk_6D_8IrMl"
+        },
+        "snippet": {
+          "publishedAt": "2016-02-09T08:46:08Z",
+          "channelId": "UC0FIKAE7xORm6Y91kWbg4cA",
+          "title": "Cours Javascript",
+          "description": "Retrouve toutes les vidéos de ce cours ▻ https://apprendre-a-coder.com/cours/apprendre-javascript/ ▽▽▽ OFFRE SPÉCIALE ▽▽▽ Obtiens le Cours 100% ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nVC-TDibEPQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nVC-TDibEPQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nVC-TDibEPQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "John Taieb",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-02-09T08:46:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mOCjH6SAHMTa0lX9ok_IYMk2DH4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-13T02:05:03Z",
+          "channelId": "UCJM7NRGBP9l5xOXU4XEU6UA",
+          "title": "모던 웹을 위한 JavaScript + jQuery 입문 3판",
+          "description": "모던 웹을 위한 JavaScript + jQuery 입문 3판의 동영상 강의입니다...!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4hCiz6aU-7Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4hCiz6aU-7Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4hCiz6aU-7Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "윤인성",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-13T02:05:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r0hGkPtLYS88rcV8uJdsKeeG1bA",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-30T11:57:08Z",
+          "channelId": "UCvjgXvBlbQiydffZU7m1_aw",
+          "title": "Beginners Guide to Machine Learning in JavaScript",
+          "description": "This playlist provides an introduction to developing creative coding projects with machine learning. The theory and application of machine learning algorithms is ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jmznx0Q1fP0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jmznx0Q1fP0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jmznx0Q1fP0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Coding Train",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-30T11:57:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QBch-p3Dt4ZbiZ1OaAEXNx43bF0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLD5U-C5KK50VWFZyPlV7OaSgoPjLA3r--"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-22T21:17:14Z",
+          "channelId": "UCWdmR3tpvXkzubAZugUQLdw",
+          "title": "JavaScript с нуля [ 👱\u200d♂️Уровень 1 ] - Мотивация, Стандарты, Переменные, Функции, Объекты и т.д.",
+          "description": "Этот курс рассчитан на людей которые впервые знакомятся с программированием, весь курс сделан в виде анимации и доступной визуализации, что ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bQQ0WCPhkU0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bQQ0WCPhkU0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bQQ0WCPhkU0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DKA-DEVELOP",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-22T21:17:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FlnfF4Cvu0S-dzVRnAxTTXaKaUs",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLZgKgfug7rBvPEr-ph51Ul0tmDWKmjlLI"
+        },
+        "snippet": {
+          "publishedAt": "2016-02-29T18:41:05Z",
+          "channelId": "UC4wm9815buj495naI-5L2YQ",
+          "title": "Javascript  (Darija) جافاسكريبت بالدارجة",
+          "description": "Une série de vidéos de programmation en JavaScript (Côté client) pour les débutants.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/S_GiSrBBC_Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/S_GiSrBBC_Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/S_GiSrBBC_Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "EL BAHJA academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-02-29T18:41:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t41WbbxGTt-sQTAdTv0IY1WdKhw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDoPjvoNmBAzvmpzF-6l3tAviiCPbwkB8"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-30T14:37:56Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Create Template With HTML, CSS3, JavaScript",
+          "description": "Special Template Design Created From Scratch Without Sketch Or PSD and Contains Many Practical Concepts in JavaScript and DOM.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vedT2jk3hi4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vedT2jk3hi4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vedT2jk3hi4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-30T14:37:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NKanO02CdPIKre3iApLx8YACYNU",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLS1QulWo1RIZ4erAYe3k8zWA5jAu72mVa"
+        },
+        "snippet": {
+          "publishedAt": "2015-10-04T14:42:40Z",
+          "channelId": "UCs6nmQViDpUw0nuIx9c_WvA",
+          "title": "Javascript Tutorial For Beginners",
+          "description": "Javascript Tutorial - Learn Javascript in simple and easy steps. A beginner's tutorial containing complete knowledge of Javascript Syntax Objects Embedding ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/08yflg_VVO8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/08yflg_VVO8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/08yflg_VVO8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ProgrammingKnowledge",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-10-04T14:42:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wOpTOmj9bokqttcv4N5dq9tM6vw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL_XxuZqN0xVAJTV_1ZXwB1XIiFkK0ddZA"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-17T10:54:06Z",
+          "channelId": "UCrmHQdRbYKFsB602Duho4Tw",
+          "title": "Javascript Full Playlist with Order",
+          "description": "There are lot javascript videos in our channel. So new visitors get trouble t find which one should watch first and main which order. That's why I am creating this ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qe9k1se3bSQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qe9k1se3bSQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qe9k1se3bSQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stack Learner",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-17T10:54:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9X4KxV_XZVQXsGPzCis0OEXCE6w",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLyuRouwmQCjkYdv4VjuIbvcMZVWSdOm58"
+        },
+        "snippet": {
+          "publishedAt": "2016-06-16T14:50:33Z",
+          "channelId": "UCTBGXCJHORQjivtgtMsmkAQ",
+          "title": "JavaScript From The Start",
+          "description": "Introductory to Intermediate level JavaScript lessons. Hopefully in a logical order.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zjVFuft1O2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zjVFuft1O2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zjVFuft1O2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Steve Griffith",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-06-16T14:50:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iE27Q2B4KYMn3Yfq5Gr37-NwIg4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLM7wFzahDYnEltE-aVGhRHYPwIJn0Xquu"
+        },
+        "snippet": {
+          "publishedAt": "2019-08-31T11:12:28Z",
+          "channelId": "UCP-xJwnvKCGyS-nbyOx1Wmg",
+          "title": "JavaScript 2.0",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2phqy5-Fz1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2phqy5-Fz1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2phqy5-Fz1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WebDev с нуля. Канал Алекса Лущенко",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-08-31T11:12:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "tjDdDp70tBP-Ljcfe9roXLCnEqM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLN9W6BC54TJLlH57qvG2aN9F99xaAk6Df"
+        },
+        "snippet": {
+          "publishedAt": "2017-01-10T03:28:18Z",
+          "channelId": "UChbgp4v5VDtySNOOU0JinSA",
+          "title": "Aprende a hacer un juego en Javascript",
+          "description": "Aprende a hacer un juego paso a paso y desde cero. Aprende a hacer un juego web usando tecnologías modernas como HTML5, CSS3, PHP y Javascript.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uzCr4-SQvas/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uzCr4-SQvas/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uzCr4-SQvas/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Java Dev One",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-01-10T03:28:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9PvIHuLr5pwx3dRojXn7Y6E1Og4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDyQo7g0_nsXlSfuoBpG5Fgz0Qe3IvWnA"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-05T22:08:03Z",
+          "channelId": "UClb90NQQcskPUGDIXsQEz5Q",
+          "title": "Vanilla Javascript Tutorials",
+          "description": "In this series we are going to cover javascript by creating real world projects and small things that you might incorporate inside your website, such as a carousel, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oUSvlrDTLi4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dev Ed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-05T22:08:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GHQexC3y6Z1urQuGxObDrP4cXoE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLA5kSHEE2hqclxI240316vu1XeTxor8Vn"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-25T18:45:20Z",
+          "channelId": "UC8niDiyhAcP8XE8-L5FYVcA",
+          "title": "JAVASCRIPT 2020",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sFyM7vqPQow/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sFyM7vqPQow/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sFyM7vqPQow/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "free udemy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-25T18:45:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NI7PYHaDpuP3OeRfLZEwE353iF0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLM7wFzahDYnG-oMkclNX0FIcLZR18hFDM"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-06T03:14:40Z",
+          "channelId": "UCP-xJwnvKCGyS-nbyOx1Wmg",
+          "title": "JavaScript Решает",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_Nlks6JQ0Ck/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_Nlks6JQ0Ck/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_Nlks6JQ0Ck/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "WebDev с нуля. Канал Алекса Лущенко",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-06T03:14:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "eGsen6_2btJiU8Ad6zqBdrd7BVk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLwM1-TnN_NN7-zdRV8YsGUB82VVhfYiWW"
+        },
+        "snippet": {
+          "publishedAt": "2020-04-17T11:51:57Z",
+          "channelId": "UCti6dG0zSAetLGGYcgNML4Q",
+          "title": "JavaScript講座",
+          "description": "JavaScriptの超入門講座です。ヤフー出身プログラマーによる初心者向けプログラミング講座のJavaScript基礎編で、駆け出しエンジニアの方にオススメです。実践的な内容 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pnsieVYy72M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pnsieVYy72M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pnsieVYy72M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "しまぶーのIT大学",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-04-17T11:51:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7YMnCaX1YAmBBz4HEiN-fjopDsg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL2SrkGHjnWcwfkYtccRowRAxWE6TakOjC"
+        },
+        "snippet": {
+          "publishedAt": "2017-03-20T01:41:13Z",
+          "channelId": "UCx9zGDevKEZ21ihod8A0i-w",
+          "title": "HTML / CSS / Javascript / jQuery 新手網站線上課程教學",
+          "description": "HTML / CSS / JavaScript / jQuery 新手網站教學https://progressbar.tw/courses/2?from=youtube 總是利用Photoshop與Dreamweaver切版完就沒你的事了嗎?",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qtGD6JLr4LA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Progress Bar 進度條線上課程",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-20T01:41:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iniGloCPSaztKVJU2ZM1LuLgeww",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLq8wAnVUcTFWhQrIXNN6kPYXJA6X2IQM4"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-18T13:28:51Z",
+          "channelId": "UC5-ixpj8DioZqmrasj6Ihpw",
+          "title": "자바스크립트(Javascript) 강의 강좌 Quick Start  + DOM 프로그래밍  for VanillaJS",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gxzy_CFqV1M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gxzy_CFqV1M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gxzy_CFqV1M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "뉴렉처",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-18T13:28:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kUESrP8ei-CeczLIV3vVxu6iJyM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLwGdqUZWnOp19VX-DM4oHtmWhDfWblFh-"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-24T11:31:20Z",
+          "channelId": "UCwfaAHy4zQUb2APNOGXUCCA",
+          "title": "Modern JavaScript ES6 Tutorial in Hindi in 2020",
+          "description": "ECMAScript 6 is also known as ES6 and ECMAScript 2015. Some people call it JavaScript 6. This ES6 tutorial series, we will see some of the new features in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JTcjSvFptEM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JTcjSvFptEM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JTcjSvFptEM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Thapa Technical",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-24T11:31:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wDQJ3ceBsVRvgibLAv9Cp6ZF2oI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL7pEw9n3GkoWn5TcqAdmSzXcvC3d_tfAh"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-14T18:20:40Z",
+          "channelId": "UCbGZKLIHpox2l0whz6_RYyg",
+          "title": "JavaScript Interview Question Preparation",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oxoFVqetl1E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oxoFVqetl1E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oxoFVqetl1E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "techsith",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-14T18:20:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YAOLSJzPlQZS0e48rSnbg0vbWNI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLlxQJeQRaKDQVpSsy6ORfpamB-x6cEpgF"
+        },
+        "snippet": {
+          "publishedAt": "2013-03-19T22:04:11Z",
+          "channelId": "UCzuaB4F2znrMggxcwUuVhAw",
+          "title": "JavaScript",
+          "description": "Le langage le plus populaire vous est présenté dans cette série de vidéos, de manière simple et ludique.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vjREjPz5sjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vjREjPz5sjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vjREjPz5sjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LES TEACHERS DU NET",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-03-19T22:04:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l6T4Sgu0fqLkWgJqLViRhNlRpbY",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-29T21:17:59Z",
+          "channelId": "UCHRp19HU7Y2LwfI0Ai6WAGQ",
+          "title": "The 10 Days of JavaScript",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dc-2t26Vuhs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dc-2t26Vuhs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dc-2t26Vuhs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "LearnWebCode",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-29T21:17:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Hca8J1jFsiV7NLC6JVDecV3J7mg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLE1qPKuGSJaDd2AiY_FkSJ2TVyuDal_k8"
+        },
+        "snippet": {
+          "publishedAt": "2019-04-10T07:52:53Z",
+          "channelId": "UCOhmp4zunVU-prEEmHlsLrw",
+          "title": "Học JavaScript",
+          "description": "JavaScript là một trong những ngôn ngữ lập trình đáng học nhất hiện nay. JavaScript xuất hiện trong hầu hết các ứng dụng web, mobile, game, các ứng dụng ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qlrhNzaYF6s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qlrhNzaYF6s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qlrhNzaYF6s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "thân triệu",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-04-10T07:52:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EcZHzRhi3fnLMIuOihHZZ-O0yjk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLWKjhJtqVAbllLK6r2dnGjUVWB_cFNcuO"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-20T17:00:19Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "JavaScript and the HTML DOM - Tutorial Playlist",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eaLKqoB9Fu0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eaLKqoB9Fu0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eaLKqoB9Fu0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-20T17:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "v-bAimB2GXFJb1Pal6pgpPF8Ma0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL7664379246A246CB"
+        },
+        "snippet": {
+          "publishedAt": "2011-09-21T03:09:50Z",
+          "channelId": "UCTHcgWOTU6gPje1g_U29tfQ",
+          "title": "Crockford on JavaScript",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JxAXlJEmNMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JxAXlJEmNMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JxAXlJEmNMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "YUI Library",
+          "liveBroadcastContent": "none",
+          "publishTime": "2011-09-21T03:09:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ASdNHuePGtnlLaiwRPDdM9oXH2w",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLf8XMtbjh0dVdJEru1dWygVwpOpx6TfG-"
+        },
+        "snippet": {
+          "publishedAt": "2015-10-02T07:32:45Z",
+          "channelId": "UCJcA7xm3ktxCO9PdKTmqeUg",
+          "title": "Curso HTML5, CSS3 y JavaScript Gratis",
+          "description": "Aprende HTML 5, CSS3 y JavaScript para iniciarte el mundo de la programación Web (Curso completo)",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vdoOJ9LQKN8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vdoOJ9LQKN8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vdoOJ9LQKN8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "OpenWebinars",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-10-02T07:32:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WdnGLVd2WHAnLITNXJuC66cSZWE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL1fahJjBIbrc_qfzlyeZotww4otgWyMwH"
+        },
+        "snippet": {
+          "publishedAt": "2015-07-08T15:44:33Z",
+          "channelId": "UCl4EG30fPEcp61O4pGU7DdA",
+          "title": "Corso JavaScript livello intermedio",
+          "description": "[CORSO COMPLETO] Corso sul linguaggio JavaScript per persone che già conoscono le basi di questo argomento e che vogliono imparare qualcosa di più.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nHfFGWtdiyg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nHfFGWtdiyg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nHfFGWtdiyg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "AndreaRizzieri",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-07-08T15:44:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CQVTTFUkciyUqKdEDtJvEhPm7sk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ"
+        },
+        "snippet": {
+          "publishedAt": "2017-02-27T16:11:42Z",
+          "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+          "title": "Data Structures and Algorithms - Beau teaches JavaScript",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Gj5qBheGOEo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Gj5qBheGOEo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Gj5qBheGOEo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "freeCodeCamp.org",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-02-27T16:11:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "AlZuymQ5eNRxV6-xh4bW5MO1RNk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLEtZq1oDporgAWT3JJdj9ZJb2nY2dvSdb"
+        },
+        "snippet": {
+          "publishedAt": "2013-08-17T11:06:52Z",
+          "channelId": "UCANpD-oEkraDPfcaGfIyULg",
+          "title": "מדריך Javascript",
+          "description": "במדריך Javascript זה אנחו נלמד את הבסיס של שפת התכנות Javascript, מערכים, לולאות, משתנים, פונקציות ועוד. כיצד אנו נשתמש בהם בפיתוח תוכנה שנמצאת על הדפדפן שלנו ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o-lt_Ju7EcA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o-lt_Ju7EcA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o-lt_Ju7EcA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "אלי נעים - מדריך לתכנות",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-08-17T11:06:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TrGzzJK5ZiQKVXtbuU5JTmqP9fE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL_WK6W0Gn1I7bL0pRUxYSbTj6g8tHU6Yq"
+        },
+        "snippet": {
+          "publishedAt": "2018-09-10T14:54:57Z",
+          "channelId": "UCT3t_it4D40h1nEIfny7m8g",
+          "title": "JavaScript asoslari",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DFyzRUsLwYE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DFyzRUsLwYE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DFyzRUsLwYE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Farkhod Dadajanov",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-09-10T14:54:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Fmf6XX5UP3DDAZEs8Cxlo2JxvYo",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLXOP1_-wmgsCGDvxHpXZCiT00PvJvltOK"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-10T00:37:38Z",
+          "channelId": "UCjzn4IbsyElFz1xowmO14Hg",
+          "title": "JavaScript入門",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fOk9-Qu7Kwg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fOk9-Qu7Kwg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fOk9-Qu7Kwg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "チュートリアル道場",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-10T00:37:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nedHiyeDxumKFghT6PMC67AG-Sc",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF"
+        },
+        "snippet": {
+          "publishedAt": "2020-06-05T19:15:39Z",
+          "channelId": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+          "title": "Learn JavaScript OOP",
+          "description": "Learn JavaScript Object Oriented Programming To Increase Your Skills in JS.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6ivFyw0gs8o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6ivFyw0gs8o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6ivFyw0gs8o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Elzero Web School",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-06-05T19:15:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3xGEyWiyNBTTOozgWDdTeZUuhPU",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLp0XgOsoW2Xbr6NjcD0X4Kv-B8GXblXGs"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-25T11:06:46Z",
+          "channelId": "UC-05iJwXH93YxVJX-3q-D7A",
+          "title": "Best Javascript Tutorial For Beginners in Telugu",
+          "description": "Hi, In this Course You will Learn All the fundamentals of JavaScript needed for web design and web development. URL: https://www.seoskills.in Blog: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/foh5ttftFv4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/foh5ttftFv4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/foh5ttftFv4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SEO Skills",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-07-25T11:06:46Z"
+        }
+      }
+    ]
+  }

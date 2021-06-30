@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "4pkpctpHI2ad9GhZkIhobLhu9GI",
+    "nextPageToken": "CJYBEAA",
+    "prevPageToken": "CGQQAQ",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 244067,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oRPL_UAXMy-7p5Gy0lnovlDoNqs",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLWf6TEjiiuIDBRe0OnAjGKgtUA6gwOyci"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-29T14:27:24Z",
+          "channelId": "UCtoDB5EEbt8C9fX72xjacLg",
+          "title": "SQL Server DBA Tutorial",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bi9bIophxxE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bi9bIophxxE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bi9bIophxxE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TechBrothersIT",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-29T14:27:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jKdu-vUJF-gnXza2yotvutmIJ2o",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLC51FJvpvRvwWfYsQMq1sCmVL-hEfDEpY"
+        },
+        "snippet": {
+          "publishedAt": "2015-04-24T22:20:24Z",
+          "channelId": "UCye0TMXdb_zdfvVgXA0XtkA",
+          "title": "SQL (Video versions)",
+          "description": "We teach an Intro to SQL course on Khan Academy here: https://www.khanacademy.org/computing/computer-programming/sql We teach the SQL concepts ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kEGlpSmeSiA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kEGlpSmeSiA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kEGlpSmeSiA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Khan Academy Computing",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-04-24T22:20:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uO_9voJfLiEdL7hj9BVk9-Tiwew",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLVsNizTWUw7Gw_ubikxbzecfveoxemsAs"
+        },
+        "snippet": {
+          "publishedAt": "2016-07-04T00:42:52Z",
+          "channelId": "UC31Gc42xzclOOi5Gp1xIpZw",
+          "title": "이것이 SQL Server다",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BXr3OwHc8Jw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BXr3OwHc8Jw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BXr3OwHc8Jw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "한빛미디어",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-07-04T00:42:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3t0rv7_DGBI0vdbgSRs0GbAWLSA",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL5gdMNl42qykDfb4KNhRsL1vtoIKKOKmL"
+        },
+        "snippet": {
+          "publishedAt": "2013-02-15T08:39:00Z",
+          "channelId": "UC6PocH7UkO0txNqTBXUKWxg",
+          "title": "Beginning Microsoft SQL Server 2012",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/805Suu5kaOg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/805Suu5kaOg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/805Suu5kaOg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "iGnani Adda247",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-02-15T08:39:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JDKlWBdv1YoKx7k32OiEWAEsAUE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLCKYja4IMuy3Sz_V-fWOb3NAcBTTXgBku"
+        },
+        "snippet": {
+          "publishedAt": "2014-07-23T03:15:34Z",
+          "channelId": "UCmrNyvDKeCM3I4gzqvxm6rA",
+          "title": "MICROSOFT T-SQL (SQL SERVER)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l2O0xEB47Hk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l2O0xEB47Hk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l2O0xEB47Hk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Bhaskar Reddy Baddam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-07-23T03:15:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "helt5HmId62MQj77p4noshh56O4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLovfz5BWiPa3VIOdSjLrV1cu2sKFiXixh"
+        },
+        "snippet": {
+          "publishedAt": "2017-07-24T13:56:34Z",
+          "channelId": "UCCatR7nWbYrkVXdxXb4cGXw",
+          "title": "SQL &amp; Data Analytics for Beginners",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6a-o4ALSe64/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6a-o4ALSe64/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6a-o4ALSe64/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DataDash",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-07-24T13:56:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D-JncqnGnX7-Yu2iRSfSSqI-Cow",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL_qNe_aTKkIUUzDEJ7KuvyldBuynyoDb2"
+        },
+        "snippet": {
+          "publishedAt": "2015-02-02T15:27:36Z",
+          "channelId": "UCdzrhKSHU3Tf8QDOuM7EF9g",
+          "title": "Oracle SQL Developer Videos",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U-Iigi2oBUo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U-Iigi2oBUo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U-Iigi2oBUo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jeff Smith",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-02-02T15:27:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1BXr4kDaJf96-iwwHkOzKWd5_NM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL8g9gILZp1OJpjlu7AuR9Ysu4z5Rff_AQ"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-22T16:04:35Z",
+          "channelId": "UCg6KcsucpULST6rs--BNTkg",
+          "title": "Kurs SQL",
+          "description": "sql #kurs #odpodstaw #grupowanie #filtrowanie #łączenie #tabel #język #zapytania #kwerendy #uprawnienia #dml #select #klucz główny #klucz obcy Język ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t6BQoPoi2UI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t6BQoPoi2UI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t6BQoPoi2UI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "nieinformatyk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-22T16:04:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YxavTlAzjvNo5sRTu4sDHwfmGaE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL1565idytjOSaLkBFEaX_219neP5aO0Yx"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-31T14:20:35Z",
+          "channelId": "UCKc3ji2XrPk6cOi97qdT3Jg",
+          "title": "SQL Administration Full Course (How to be SQL DBA) in Arabic",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ThgwDU4TDus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ThgwDU4TDus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ThgwDU4TDus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ahmed Samir El Khadrawy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-08-31T14:20:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UJeYGQlXk7yZvLLgEDrK6PgzqhQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLlrxD0HtieHi5c9-i_Dnxw9vxBY-TqaeN"
+        },
+        "snippet": {
+          "publishedAt": "2020-07-22T00:17:53Z",
+          "channelId": "UCsMica-v34Irf9KVTh6xx-g",
+          "title": "Azure SQL for beginners",
+          "description": "Easily translate your SQL Server skills and experience to Azure SQL—using familiar tools and techniques. Insiders Bob Ward and Anna Hoffman walk you ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Dtr6eRVZQ8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Dtr6eRVZQ8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Dtr6eRVZQ8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Microsoft Developer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-07-22T00:17:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1FOcf2-r1lun_Zsjcu2p5ph0QC0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLB9AbbTDeBzQogvD5pvCH4TotjmYCJlY_"
+        },
+        "snippet": {
+          "publishedAt": "2016-01-05T00:32:19Z",
+          "channelId": "UCPG8gFC9koRTdNrW4H1d2tQ",
+          "title": "Langage SQL : Intérroger une base de données",
+          "description": "L'objectif de cette formation est de vous initier sur le langage SQL. Dans cette vidéo, vous allez apprendre les ordres SQL pour interroger une base de données.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Dwg55yEs6q4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Dwg55yEs6q4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Dwg55yEs6q4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "coursaline",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-01-05T00:32:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yuYt10rJt3V_7FFxVKB3d6J8Yh8",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLx_KyK8sU66Vz4-YhV0Ux_Sf4_zH27m_r"
+        },
+        "snippet": {
+          "publishedAt": "2017-06-20T07:12:34Z",
+          "channelId": "UCeRy-ZLfpkQUC240qoXCq1A",
+          "title": "SQL tutorials for beginners | HINDI",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XE3n5EMqSNU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XE3n5EMqSNU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XE3n5EMqSNU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tutorial007",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-06-20T07:12:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EurjYnTEfGA-hU0KsNRSbllypF4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLd6o9p13Lc50MNeph8RQaBILOHr8GMIkB"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-24T21:48:05Z",
+          "channelId": "UCHgE08i_ol0DwXRfrH3zKVg",
+          "title": "شرح  SQL Language DataBase",
+          "description": "شرح sql - دورة sql - كورس sql -- هتعرف فى الكورس ده ماهو sql واستخدامته وهتعرف كل كود واستخدامه باشكال مختلفة لغة الاستعلامات البنيوية (أو البنائية) (بالإنجليزية: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8H2G3VTXrO8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8H2G3VTXrO8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8H2G3VTXrO8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mohamed Ramadan Abdallah محمد رمضان",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-24T21:48:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8JRfLxbXDszasjZ8suIWkre0T4g",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL0lO_mIqDDFWOMqSKFaLypANf1W7-o87q"
+        },
+        "snippet": {
+          "publishedAt": "2019-05-04T17:49:18Z",
+          "channelId": "UCvuY904el7JvBlPbdqbfguw",
+          "title": "Уроки C# .NET Windows Forms + Базы данных SQL",
+          "description": "В ходе видео курса вы научитесь работать с C# .NET Windows Forms, а также познакомитесь с созданием приложений поддерживающих работу с ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gp2rA0rgq_0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gp2rA0rgq_0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gp2rA0rgq_0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Гоша Дударь",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-04T17:49:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L7r_gcqNwOPmRtxbQWDG0gdH0j4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLUDwpEzHYYLt0aRs7gvyEEviMp_CoTO3q"
+        },
+        "snippet": {
+          "publishedAt": "2019-05-20T13:17:31Z",
+          "channelId": "UC46vj6mN-6kZm5RYWWqebsg",
+          "title": "SQL For Testers",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wifRYaPiiM0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wifRYaPiiM0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wifRYaPiiM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SDET - QA Automation Techie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-05-20T13:17:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wqZEqyTQhdLPszhZ5uWI6XOWdzg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDQ11FgmbqQM5_9yvfX5BedruJ3X1KJJj"
+        },
+        "snippet": {
+          "publishedAt": "2018-09-23T09:23:14Z",
+          "channelId": "UCHrB_RGghNKUTL0iTZR_Cnw",
+          "title": "الدورة الشاملة لمطور تطبيقات سطح المكتب  برمجة + تسويق (SQL +#C)",
+          "description": "الدورة الشاملة لمطور تطبيقات سطح المكتب ( برمجة + تسويق ) (SQL + #C) البرامج المستخدمه فى الدورة:- Visual Studio2017 , SQLServer 2017,DevExpress 2018 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LoZ4fk9TSKg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LoZ4fk9TSKg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LoZ4fk9TSKg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mahmoud Bakr",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-09-23T09:23:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jKSR1qtxGZWsL-52IUlKSKLUQkc",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLC4UZxBVGKte0o6iUssqQVmXhryrOqPXi"
+        },
+        "snippet": {
+          "publishedAt": "2014-01-27T08:01:00Z",
+          "channelId": "UCC9zrtAkl6yY4dpcnWrCHjA",
+          "title": "SQL",
+          "description": "SQL Grundlagen, Structured Query Language, Datenbanken, DBMS, Datenbanken Grundlagen.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ps_wMsAseog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ps_wMsAseog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ps_wMsAseog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Prof. Dr. Jens Dittrich",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-01-27T08:01:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GKXgwmj5ozSm8rgWuwBG634oaJE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL954bYq0HsCWcRM-f2iva9T33ELw6VZvR"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-24T20:44:19Z",
+          "channelId": "UCb6g3rqz85vkJZe3LiFAyJg",
+          "title": "Curso Gratuito de SQL Server",
+          "description": "Curso de base de datos, Suscribete para mas contenido.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bW-NYf606fM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bW-NYf606fM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bW-NYf606fM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Locura Informática Digital",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-24T20:44:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bejaDPCpAZqvO0gyAwkOs8b0Fro",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLV8vIYTIdSnadFpRMvtA260-3-jkIDFaG"
+        },
+        "snippet": {
+          "publishedAt": "2016-09-18T06:41:40Z",
+          "channelId": "UC4EX8zLiBUalk704IX_zu1Q",
+          "title": "PL-SQL tutorial for Beginners in Hindi and English",
+          "description": "PL-SQL tutorial for Beginners in Hindi and English.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1dmZByQcZyU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1dmZByQcZyU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1dmZByQcZyU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Easy Engineering Classes",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-09-18T06:41:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wXofudU4QzP-EaNwmwC3xMHIIIw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL73weCIiJDaYlZKE-ffQjDUKks2tYOVpI"
+        },
+        "snippet": {
+          "publishedAt": "2015-01-02T05:28:30Z",
+          "channelId": "UC6OPivUvYKiEqIfsF9qKZ0g",
+          "title": "PL/SQL Oracle 11g",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9drCGaInk4Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9drCGaInk4Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9drCGaInk4Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Anthony Baquerizo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-01-02T05:28:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OfhBo6EbxO1biYHNLC0Nh4tGgwA",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL5fR9QcRlu_JGT78XUQW2ebdQjXyiQPzd"
+        },
+        "snippet": {
+          "publishedAt": "2013-07-02T06:13:59Z",
+          "channelId": "UCCT5ghfMhLknKiE1J-zNy2Q",
+          "title": "SQL Accounting Tutorial",
+          "description": "These are the videos on how to use SQL Accounting Software. Enjoy and support us.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IABvlwJ_1Q8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IABvlwJ_1Q8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IABvlwJ_1Q8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "syntaxtechnologies",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-07-02T06:13:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Iq5uMi3Nn0px5-F-xXDc6h2-nI0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL609LHOw-3gK2VXEtXPyAWHFAYz1A5SLG"
+        },
+        "snippet": {
+          "publishedAt": "2015-08-28T21:47:08Z",
+          "channelId": "UCaucVYMq2XqMvTxAcNC-MnA",
+          "title": "SQL",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LQcUO_cc1ss/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LQcUO_cc1ss/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LQcUO_cc1ss/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hamza Nabil",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-08-28T21:47:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iSgWxl1Hb3zxiyLuzge2iP4lNT0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLXOP1_-wmgsAB9S0cgM2z3DCQTFoetEVB"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-16T03:51:01Z",
+          "channelId": "UCjzn4IbsyElFz1xowmO14Hg",
+          "title": "SQL入門",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j4kh9YBS7QU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j4kh9YBS7QU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j4kh9YBS7QU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "チュートリアル道場",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-16T03:51:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x63Da5tNl05PldDTTtQ8sJCVv38",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLx_KyK8sU66Wr1Pcqqf-6XTF8H_Zg0IxF"
+        },
+        "snippet": {
+          "publishedAt": "2018-02-20T09:53:48Z",
+          "channelId": "UCeRy-ZLfpkQUC240qoXCq1A",
+          "title": "PL/SQL tutorial for beginners in hindi By Tech Talk Tricks",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0Ha-C1tDbiM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0Ha-C1tDbiM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0Ha-C1tDbiM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tutorial007",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-02-20T09:53:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2BPD-wf_j8j9xyIJgmQEg4ANZFw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLMlNiWEoh5QrLU6C7_Ad71UtRpACh3FdQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-11-12T06:08:39Z",
+          "channelId": "UCny3kqkc642mIL6eZ2sljqg",
+          "title": "SQL Developer Tutorials for beginners",
+          "description": "Playlist Name: sql developer tutorials/tutorial for beginners Hi I am Manish Sharam a.k.a RebellionRider and This playlist consist all the SQL Developer tutorial ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0aIKyA0F4I8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0aIKyA0F4I8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0aIKyA0F4I8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Manish Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-11-12T06:08:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "csOJVfzwfPM9P714lh5PU9VOGrw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLnWAzeXp9V4kjwKztMiBYPo2ncAjI2QqD"
+        },
+        "snippet": {
+          "publishedAt": "2016-05-06T15:36:21Z",
+          "channelId": "UCRI-MRj0VCloQhXM_TXNymg",
+          "title": "Crea aplicaciones para windows con C# y SQL en 4 capas",
+          "description": "En la actualidad, la creación de sistemas de información usa arquitectura multi-nivel mas conocida como programación por capas, esta arquitectura cumple una ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DbgeRW1jaOo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DbgeRW1jaOo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DbgeRW1jaOo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Formando Código",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-05-06T15:36:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qi13crCF3x3YZk_4eUN5z1mCq60",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLtNErhYMkHnH6nrz4YRP-syd7iDlp3ecu"
+        },
+        "snippet": {
+          "publishedAt": "2014-03-25T19:24:01Z",
+          "channelId": "UCFvbB4_qLYRrOQNuFudz-Mg",
+          "title": "Microsoft SQL Server 2012 Exam 70-461",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4eK9dn5fC9A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4eK9dn5fC9A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4eK9dn5fC9A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "O'Reilly - Video Training",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-03-25T19:24:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "V50mc172BQXKvKxUufaqgK_DrkI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLNmsVeXQZj7qYPusTRflv3tkzhYoT-KiB"
+        },
+        "snippet": {
+          "publishedAt": "2015-02-24T12:06:57Z",
+          "channelId": "UCLGY6_j7kZfA1dmmjR1J_7w",
+          "title": "SQL Tutorials Deutsch",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RQPznV3LZW8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RQPznV3LZW8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RQPznV3LZW8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Morpheus Tutorials",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-02-24T12:06:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wwgtDvGEFMrgk5eWFn8P4sNC3us",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLttptd1HG9Q5Oc3ND88TJSCeo_d7xMrxw"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-24T18:11:43Z",
+          "channelId": "UCbel2zHyEJbPMFDV5mWZ9mw",
+          "title": "SQL Server Database Development",
+          "description": "SSIS in Amharic Language SSRS in Amharic Language MVC in Amharic Language ANGULAR in Amharic Language Introduction to computer in Amharic ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MYWlFxct4Co/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MYWlFxct4Co/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MYWlFxct4Co/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "yayobe Yoseph",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-24T18:11:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "F7eu8bBsECG1937gCa_gn6HgbwQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLKnjBHu2xXNOooo9pcx5Dw-6zOyk1rwyO"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-03T11:39:17Z",
+          "channelId": "UCbkbOlw8snP93RJ2BhH44Qw",
+          "title": "Postgre SQL Dersleri",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lC8xh60CIG4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lC8xh60CIG4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lC8xh60CIG4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Murat Yücedağ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-03T11:39:17Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "pVTnl0fqmZ6hb5TB7x3YFk5ryNU",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL_nMO-wncU0nYz_BFwHJENd2YWoobA9Ly"
+        },
+        "snippet": {
+          "publishedAt": "2016-06-29T19:50:42Z",
+          "channelId": "UCveSGenCR_wp_BEeH3WTSHA",
+          "title": "PRAGIMTECH - SQL SERVER TUTORIAL",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZNObiptSMSI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZNObiptSMSI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZNObiptSMSI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Gustavo Sanchez",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-06-29T19:50:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jyEvqEHARo2rrtD46PKzdlGp6T4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLzr5fRV1AGV8dEGsRkghCpXNGEFI1PFaA"
+        },
+        "snippet": {
+          "publishedAt": "2016-03-06T03:35:37Z",
+          "channelId": "UCY3TX0HrXcclfhPlgzkof-w",
+          "title": "SQL lessons",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x3G4WeaIwJw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x3G4WeaIwJw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x3G4WeaIwJw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Magic Monk",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-03-06T03:35:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "MKzl6Plao2qNd4F2_muphwlai3o",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLMLg4SyrAROHJu1gsB6v9IkOmuWTshtP0"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-06T21:59:26Z",
+          "channelId": "UC-XcJeMrCvIGkgID2-luT3A",
+          "title": "SQL server DBA دورة قواعد البيانات - كورس ادارة وحماية",
+          "description": "اماكن كورسات sql Sql server DBA دورة sql server administration شرح كورس Sql server افضل دورة SQL كورس sql.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DRAYLqsu4jo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DRAYLqsu4jo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DRAYLqsu4jo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Citystarit-موقع تعليمي",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-06T21:59:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ufQC8Qzy5jkT0F9tUspu_W_W9Hk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLJ5y5njLJrx-PYJfONhCV4nNRmj7vJ-A4"
+        },
+        "snippet": {
+          "publishedAt": "2017-03-06T04:00:07Z",
+          "channelId": "UCi-uTy8YErlTPyljHOuu3yw",
+          "title": "Java programming training |Java GUI with SQL Tutorial",
+          "description": "Java Programming Training .GUI Tutorial that helps you to create Signin Form with SQL Database Connection, insert data into database using textfield, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oIW57otC_U8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oIW57otC_U8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oIW57otC_U8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Indra Subedi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-03-06T04:00:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ZhSxoPK3Am4B-XX5EDFn-dQonFA",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLb1qVSx1k1VpEqAXgoFn5p7kFVzgsvUgM"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-03T16:39:44Z",
+          "channelId": "UCBt6VrxAIb5jLh9HLDcdwtQ",
+          "title": "oracle sql practice exercises with solutions",
+          "description": "Oracle scenario based SQL questions for interview SQL practice questions for Data Analysis Learn SQL through examples Learn SQL beyond basics SQL ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h4uN4vadyVs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h4uN4vadyVs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h4uN4vadyVs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Siva Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-03T16:39:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xxqXz-o2nQK5-G4atWIN7GRjvHo",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL28YtFoet8RXjI8cpwOZqcQvW82TEodiA"
+        },
+        "snippet": {
+          "publishedAt": "2014-06-20T14:27:10Z",
+          "channelId": "UCTK8lcj1V09KjPA9tqutyLA",
+          "title": "PL/SQL",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7HkV9e-L-l8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7HkV9e-L-l8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7HkV9e-L-l8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "radhikaravikumar",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-06-20T14:27:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hQKxcsHo4kahk1Ns8qtudqWEUCM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDA2q3s0-n14iIlwDn4axGK9omDNQNu_J"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-04T17:54:43Z",
+          "channelId": "UCw4nW20DmN2eh7o2ZL2gfWA",
+          "title": "SQL (Structured Query Language) Class 12 Computer Science",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hdA85YSnh6c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hdA85YSnh6c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hdA85YSnh6c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Edutainment 1.0",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-04T17:54:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "L_fa82MwP0E_UxLy-qCFuZiOAPc",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLx5yn1EeCC_5k6rPPz_YOkLW9AbYaIvCD"
+        },
+        "snippet": {
+          "publishedAt": "2015-05-03T12:38:36Z",
+          "channelId": "UC9t1z-0ZpTiulG8pySNr_Ng",
+          "title": "شرح  2012 SQL Server Administration بالعربي",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tDCGbxdWQDo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tDCGbxdWQDo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tDCGbxdWQDo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Hussein Abd Allah ElGanzory",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-05-03T12:38:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P6HWuS3CiZ_F8Wwh58KMfiq3tl4",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLDuz-a09ozgcTn-x6l5WY8ZUyCi8W4b24"
+        },
+        "snippet": {
+          "publishedAt": "2014-11-17T17:12:35Z",
+          "channelId": "UCW3UdNGtLxujryrjd5-9r0A",
+          "title": "SQL Server 2014 Tutorial",
+          "description": "I am working on complete SQL Server 2014 tutorial series. In this i am going to cover everything related to SQL Server. If you want to learn some thing in urgent ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4596d2_-zsY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4596d2_-zsY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4596d2_-zsY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mayank Sanghvi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-11-17T17:12:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kklU0pLvcVkllzC8aySg7CPR6Ps",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLTU76O6uRMfQixOnW0IAdDxwCM40M8rTl"
+        },
+        "snippet": {
+          "publishedAt": "2017-06-21T11:13:49Z",
+          "channelId": "UCYdokfS3XgxlGhorGy2beOA",
+          "title": "SQL SERVER 2017",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0lB26PD3nAI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0lB26PD3nAI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0lB26PD3nAI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "G. Tech",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-06-21T11:13:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mxH1-DZTku-J1nExCFEEu6QBdSM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLmBevUL_gLxlRw0ZTT3gaJmnF_6SlOtVn"
+        },
+        "snippet": {
+          "publishedAt": "2016-01-04T17:14:14Z",
+          "channelId": "UC1RAXUVxOmbwjWIxUj910RA",
+          "title": "formation SQL Server",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5jp3fN2gYEI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5jp3fN2gYEI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5jp3fN2gYEI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Th3Wiki",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-01-04T17:14:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mfUAbVQM-gaGWhxgZBYEfIfZx60",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLw_k9CF7hBpIFmHUyz2jQ3Fo7yYW9jeol"
+        },
+        "snippet": {
+          "publishedAt": "2018-04-24T20:56:12Z",
+          "channelId": "UC1ofxnYkvcTI79_ycsZ4Zgg",
+          "title": "Advanced Sql Tutorial",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fm3fMnbWTGg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fm3fMnbWTGg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fm3fMnbWTGg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Free Online Courses",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-04-24T20:56:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RPyDJtMiVXQvh8mSFaPOpLJVmjM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLMlNiWEoh5QqSvF_3wDxXqVA5pPTcuwZQ"
+        },
+        "snippet": {
+          "publishedAt": "2014-09-21T05:53:53Z",
+          "channelId": "UCny3kqkc642mIL6eZ2sljqg",
+          "title": "SQL tutorials /Oracle Database tutorials for beginners",
+          "description": "SQL tutorial for beginners and pl sql tutorials for beginners. Oracle 11g 10g tutorials for beginners.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0NLsJQCvKXY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0NLsJQCvKXY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0NLsJQCvKXY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Manish Sharma",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-09-21T05:53:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vm0OsgkGlBB5jaFNpoMNdVQ-Y60",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLFHvrovU0ghF_2yBS9qQE0Mrld4zMwbFl"
+        },
+        "snippet": {
+          "publishedAt": "2014-11-01T19:05:31Z",
+          "channelId": "UCzv_pr6YEtWeGfoR7b6YBaQ",
+          "title": "langage SQL",
+          "description": "cours complet bases de données 1 et 2 pour la filière développement informatique.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Gk96Gp7si9I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Gk96Gp7si9I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Gk96Gp7si9I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "samir elachouri",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-11-01T19:05:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4WEWAoMpJd7kqxokhNb8aarZdYM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLNAMnK22kwLYABtwZFcshjfBrmVEC_sgg"
+        },
+        "snippet": {
+          "publishedAt": "2015-08-27T12:09:05Z",
+          "channelId": "UCAeBi3qwZ9pj52yYHm3WEZQ",
+          "title": "Langage SQL niveau I (Débutant)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YhLCZxRzgqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YhLCZxRzgqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YhLCZxRzgqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mohamed IDBRAHIM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-08-27T12:09:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PTtkFSIAaGw-MWJLquXF26Sgd2Q",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLq7cQMGDozxVyotiWCUAteMfMvwJc8k2e"
+        },
+        "snippet": {
+          "publishedAt": "2015-03-28T12:17:23Z",
+          "channelId": "UCykaoJkZEx03LM8cgPEIn1A",
+          "title": "[Arabic - عربي] SQL Server 2014 BI - تعليم باللغة العربية",
+          "description": "www.TheSQLPro.com @TheSQLPro Arabic SQL Server 2014 BI - تعليم باللغة العربية 1. Introduction - المقدمة 2. Data Modeling - تصميم 3. SSIS 101 4.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EoIYxdAErBk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EoIYxdAErBk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EoIYxdAErBk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Ayman El-Ghazali",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-03-28T12:17:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8_0qWtZ5nL1FmjjZnh-54rhJg1Q",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLEC1E4BDD89EDF865"
+        },
+        "snippet": {
+          "publishedAt": "2009-12-10T10:17:14Z",
+          "channelId": "UCKkrTv9Z34NvIg7onhD7oVA",
+          "title": "Oracle PL/SQL forms reports",
+          "description": "182 Oracle PL/SQL forms reports.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SLUCpxu5Dz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SLUCpxu5Dz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SLUCpxu5Dz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Neri Neitzke",
+          "liveBroadcastContent": "none",
+          "publishTime": "2009-12-10T10:17:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RL0ff5ZLLloFEMzWLjB67u5qWlM",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLMhO_ohUts0u3hzDJqmwTKe7H2HFmFJIU"
+        },
+        "snippet": {
+          "publishedAt": "2016-12-28T18:02:45Z",
+          "channelId": "UCpDvgrX4nTQHyfA6DOPqpXA",
+          "title": "SQLSERVER Kurdish Tutorials (  بەزمانی كوردی SQL فیركاری)",
+          "description": "SQL فيربووني زماني بەنەزەری و عەمەلی.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Fheee5tgQww/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Fheee5tgQww/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Fheee5tgQww/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mohamad Abdulxalq",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-12-28T18:02:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rxDCHqcC9GpexIb4JDHnNeBXnNk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLmjuBlzAWCzwEnssE9xPgPUd1ZlNCHKqS"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-21T11:41:19Z",
+          "channelId": "UC_2LktXWOIGvgFNmtGADquw",
+          "title": "Microsoft SQL Server  ( In Tamil )",
+          "description": "Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JFAFls_SKuo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JFAFls_SKuo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JFAFls_SKuo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Collectiva Knowledge Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-21T11:41:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9ljfdNwiLkE6PNuYKED5j_GJx3E",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLBaM4rnPCmV795SEYozdn8w-eNQ-ky5IO"
+        },
+        "snippet": {
+          "publishedAt": "2013-10-05T18:26:04Z",
+          "channelId": "UCFUCONeeQ2Jo_fhrBZZjr_g",
+          "title": "Curso SQL SERVER 2008 R2",
+          "description": "Aprenderemos todo desde 0 para crear nuestra base de datos utilizando SQL SERVER 2008..espero les guste y se sucriban....",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vwBvEI5HlLA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vwBvEI5HlLA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vwBvEI5HlLA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "MADRUGADOR2010",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-10-05T18:26:04Z"
+        }
+      }
+    ]
+  }

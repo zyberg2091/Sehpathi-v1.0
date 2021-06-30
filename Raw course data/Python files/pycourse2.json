@@ -1,0 +1,1713 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "BCBpa4SNeCXfKh1q0_QFllrkZrg",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "regionCode": "IN",
+    "pageInfo": {
+      "totalResults": 540983,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ndLW7-wAESPcDfxJwxoyyjmiuaw",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L"
+        },
+        "snippet": {
+          "publishedAt": "2019-06-26T17:16:20Z",
+          "channelId": "UCc5FkTYiWH5L3Gk5IyW6Rmw",
+          "title": "Core Python (Hindi)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/URfNAAuZ52w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/URfNAAuZ52w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/URfNAAuZ52w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Geeky Shows",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-06-26T17:16:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4HsqetA7ngg69aj8_tmA6OP4rBo",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7"
+        },
+        "snippet": {
+          "publishedAt": "2017-05-17T03:15:49Z",
+          "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+          "title": "Python Programming Beginner Tutorials",
+          "description": "In these Python Beginner Tutorials, we will be learning the fundamentals of Python programming from the ground up. We will be learning how to: install/setup ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YYXdXT2l-Gg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YYXdXT2l-Gg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YYXdXT2l-Gg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Corey Schafer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-05-17T03:15:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "h4UiOI4Z7uMQsrYVxIxZVJIORco",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-09T06:12:31Z",
+          "channelId": "UCQfwKTJdCmiA6cXAY0PNRJw",
+          "title": "2017-2018 Алгоритмы и структуры данных на Python 3",
+          "description": "Практика по курсу: http://judge.mipt.ru/mipt_cs_on_python3 Учебная программа: https://github.com/mipt-cs/course-site-python3/wiki.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KdZ4HF1SrFs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KdZ4HF1SrFs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KdZ4HF1SrFs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тимофей Хирьянов",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-09T06:12:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HywQ5aR1zcbHjYSL2puhppJXYN8",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLwgFb6VsUj_mZJBbyJhcIocCPgLIbmV-R"
+        },
+        "snippet": {
+          "publishedAt": "2016-12-10T02:17:51Z",
+          "channelId": "UCrkQMtWNtuq-1j0q8c2RVeQ",
+          "title": "Python tutorials for beginners in hindi",
+          "description": "Python Programming : Basics of programming , python tutorials in hindi , python tutorials for absolute beginners , fundamentals of programming, advance python ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cpAa46NsmP8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cpAa46NsmP8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cpAa46NsmP8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Harshit vashisth",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-12-10T02:17:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yKeWXBQGIaBn5ORN72NeQihFRHI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg"
+        },
+        "snippet": {
+          "publishedAt": "2017-08-31T18:27:36Z",
+          "channelId": "UCBw4b26KZrBvHRPBjOCw6UQ",
+          "title": "[Python] Lập trình Python cơ bản - Howkteam",
+          "description": "GIỚI THIỆU KHÓA HỌC Với mục đích giới thiệu đến mọi người NGÔN NGỮ PYTHON, một ngôn ngữ lập trình khá mới mẻ so với C, C++, Java, PHP ở Việt Nam.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NZj6LI5a9vc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NZj6LI5a9vc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NZj6LI5a9vc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "K team",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-08-31T18:27:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qxTQqhrXdhdq6IA0nxvH-6uGKxg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLzgPDYo_3xunqaoZnnTaoka2R6psn5u2T"
+        },
+        "snippet": {
+          "publishedAt": "2016-08-19T06:52:16Z",
+          "channelId": "UCIgXF0FrYJL0a6sMsRIsLvA",
+          "title": "Python Programming Video Tutorials for Beginners",
+          "description": "This is the series of free video tutorial s on python programming language for beginners and all these videos will help you to learn the language from the basics ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IfW_hldiC5c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IfW_hldiC5c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IfW_hldiC5c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Amulya's Academy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-08-19T06:52:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "O6jTvjfwrCW96qxXkHoJIJ2sW80",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL4uClqJN4QKULcq7tR8E9kWyxMX9YHhdZ"
+        },
+        "snippet": {
+          "publishedAt": "2016-09-10T10:39:41Z",
+          "channelId": "UC0EUI4xA5SB6WswqLavNcyA",
+          "title": "Terraria 1.3.3 / 1.3.4 || Python&#39;s Realm",
+          "description": "Python embarks on a brand new massive adventure in a Terraria 1.3.3 world, attempting to complete some seriously epic goals as he goes!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/L-O2crBU8Aw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/L-O2crBU8Aw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/L-O2crBU8Aw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PythonGB",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-09-10T10:39:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cg0WZqKezT3CWmwtsh_ORFCUp5I",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW"
+        },
+        "snippet": {
+          "publishedAt": "2015-03-13T20:58:06Z",
+          "channelId": "UCBVCi5JbYmfG3q5MEuoWdOw",
+          "title": "Programming Foundations with Python",
+          "description": "These videos are part of an online course, Programming Foundations with Python. Check out the course here: https://www.udacity.com/course/ud036.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/X0FoelOIZM0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/X0FoelOIZM0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/X0FoelOIZM0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Udacity",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-03-13T20:58:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6YVaX_tu3650XOPnh3fZshEaBzQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-10T19:57:36Z",
+          "channelId": "UCFB0dxMudkws1q8w5NJEAmw",
+          "title": "Python GUI&#39;s With TKinter",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yQSEXcf6s2I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yQSEXcf6s2I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yQSEXcf6s2I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Codemy.com",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-10T19:57:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fU5ur9dlQBuuR1fg0Cs-PcNVj08",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-18T21:39:57Z",
+          "channelId": "UCrWvhVmt0Qac3HgsjQK62FQ",
+          "title": "Curso de Python 3 - Mundo 3: Estruturas Compostas",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0LB3FSfjvao/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0LB3FSfjvao/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0LB3FSfjvao/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Curso em Vídeo",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-18T21:39:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JFlikqZuIVTDDtIvRUO1xqIiGwA",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4"
+        },
+        "snippet": {
+          "publishedAt": "2016-11-09T01:43:10Z",
+          "channelId": "UC79Gv3mYp6zKiSwYemEik9A",
+          "title": "Python Tutorial: Learn Python For Data Science",
+          "description": "In this tutorial you learn all about how to use Python for Data Science. See the full course series at ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Rf4fZDQ0yw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Rf4fZDQ0yw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Rf4fZDQ0yw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DataCamp",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-11-09T01:43:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fJO5uDJMlpdAdPawON3e_cmzUdg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ"
+        },
+        "snippet": {
+          "publishedAt": "2017-01-17T18:18:23Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Python Programming for Finance",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2BrpKpWwT2A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2BrpKpWwT2A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2BrpKpWwT2A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-01-17T18:18:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "k_Qt75oUUL0nnR_4KOaexSdI2ME",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN"
+        },
+        "snippet": {
+          "publishedAt": "2018-12-28T09:11:15Z",
+          "channelId": "UCEXwc6mNh7Lakj6lX-7a2Mg",
+          "title": "Python Bangla Tutorials for Beginners",
+          "description": "Subject: Python Lectured by: Anisul Islam Rubel (BSc in CSE) website : https://www.studywithanis.com Facebook : https://www.facebook.com/studywithanis ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xjcCi6Tzfxw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xjcCi6Tzfxw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xjcCi6Tzfxw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Anisul Islam",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-12-28T09:11:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QYXz6Qg1cgUx5z9Q5lsI-2ba30Y",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-26T20:38:49Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Learning to program with Python 3 (py 3.7)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eXBD2bB9-RA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eXBD2bB9-RA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eXBD2bB9-RA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-26T20:38:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "P0xlt8sEIZCkg2bzWumY4XPzYj0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLd3UqWTnYXOmzcSdWIh-EggqAtCXvJxzu"
+        },
+        "snippet": {
+          "publishedAt": "2018-02-20T08:05:24Z",
+          "channelId": "UCbjozK_PYCTLEluFlrJ8UZg",
+          "title": "python videos by durgasoft",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CtbckFw0pJs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CtbckFw0pJs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CtbckFw0pJs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Durga Software Solutions",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-02-20T08:05:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "yDYhTYVFl6Ic8Ywkqzv-qmpb3bQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLHUQL6-_n9Zes1VLMgJbLa8IIOHT9x4Nu"
+        },
+        "snippet": {
+          "publishedAt": "2017-01-16T10:52:27Z",
+          "channelId": "UCLXlzAu0NhM5pnXLQdGnHJQ",
+          "title": "Video Corso Python 3 -  Impara a Programmare in Python 3 - Impara le Basi Della Programmazione, con Python! Corso Italiano",
+          "description": "Impara a Programmare con Python 3, uno dei Linguaggi di Programmazione più popolari e apprezzati del Pianeta, con questo corso per principianti pensato ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mXWXUzgok_I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mXWXUzgok_I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mXWXUzgok_I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "PyMike",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-01-16T10:52:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iFScC_7E6gX1KmfX7Tq84WwZsC8",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDdLkP8MrOXLe_rKuf6r80KO"
+        },
+        "snippet": {
+          "publishedAt": "2014-08-24T18:14:15Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "PyGame with Python 3 Game Development",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ujOTNg17LjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ujOTNg17LjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ujOTNg17LjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-08-24T18:14:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FFZNBL_OtHC2A6agL4Ot5hUpyM0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLLUsl4SYy5wFtX-VCW5gft6SgLbVOH2Y5"
+        },
+        "snippet": {
+          "publishedAt": "2015-10-19T18:05:06Z",
+          "channelId": "UCGj-3RuJeNdzTsACq8beDRg",
+          "title": "零基础入门学习Python",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jCI4oDkDg00/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jCI4oDkDg00/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jCI4oDkDg00/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "C鱼",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-10-19T18:05:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ED2TxPftq7IgNO2ASViHlQCCqeg",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLWtYZ2ejMVJnh0KVllw24XklzJ62WNFsj"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-23T23:19:25Z",
+          "channelId": "UC7QoKU6bj1QbXQuNIjan82Q",
+          "title": "Programación en Python || Programación ATS",
+          "description": "Hola Te gustaría aprender a programar en Python? Si es así te invito a inscribirte en este curso, en el cuál aprenderás a programar en Python desde cero ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z4AOP7-b1RM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z4AOP7-b1RM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z4AOP7-b1RM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Programación ATS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-23T23:19:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8vBK9_AroReWk4MfRdOKx54nSZk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDeETZEOy4VdocT7TOjfSA8a"
+        },
+        "snippet": {
+          "publishedAt": "2017-04-10T14:55:53Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Python Plays: Grand Theft Auto V",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ks4MPfMq8aQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ks4MPfMq8aQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ks4MPfMq8aQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-04-10T14:55:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8k8J8CCB-k4NeGmKDvhP2yjRgrQ",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLXO45tsB95cIRP5gCi8AlYwQ1uFO2aQBw"
+        },
+        "snippet": {
+          "publishedAt": "2016-05-22T06:50:54Z",
+          "channelId": "UCdyjiB5H8Pu7aDTNVXTTpcg",
+          "title": "python基础 中文",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1PC3etgLwVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1PC3etgLwVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1PC3etgLwVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "莫烦Python",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-05-22T06:50:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "whgkPwuPuKnWVoMO5bxftbq2Too",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLkPmSWtWNIyQtpYf0Iq-myisH__8gRy4k"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-13T09:11:39Z",
+          "channelId": "UCkQKVmPkp9Br6MNJYalsUGw",
+          "title": "[Hindi]Machine Learning Tutorial For Beginners in Python 2019",
+          "description": "In this series I have tried to cover Machine learning algorithms from scratch for beginners. I have tried to cover all the ML Algorithms like linear regression, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JCAFrKbsRWU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JCAFrKbsRWU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JCAFrKbsRWU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Knowledge Shelf",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-13T09:11:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VuWudBL7YppPeOzH_CFdAKGaFP8",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLLOxZwkBK52DmuHRO3UNpqAzDF57FtIxk"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-22T18:55:55Z",
+          "channelId": "UC63URkuUvnugRBeTNqmToKg",
+          "title": "PYTHON PROGRAMMING FOR BEGINNERS",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fEsHK2OzTd4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fEsHK2OzTd4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fEsHK2OzTd4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Sundeep Saradhi Kanthety",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-22T18:55:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GKGgKxbsdJ7RAUw9FDVICY1Ai_c",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p"
+        },
+        "snippet": {
+          "publishedAt": "2016-09-07T05:53:37Z",
+          "channelId": "UChYfrRp_CWyqOt-ZYJGOgmA",
+          "title": "Python for Everybody - Exploring Information (PY4E)",
+          "description": "This is a set of videos to accompany the textbook titled \"Python for Everybody - Exploring Information in Python 3\", the web site http://www.py4e.com and the ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fvhNadKjE8g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fvhNadKjE8g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fvhNadKjE8g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chuck Severance",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-09-07T05:53:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nWizom1a_-z-Vc7dUT8qE487Z6M",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-01T22:13:32Z",
+          "channelId": "UCF7BExjT2zH_mmyqOB139Dg",
+          "title": "Class 12 Board | Python | Computer Science",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O1fkdKXV_qY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O1fkdKXV_qY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O1fkdKXV_qY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Apni Kaksha",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-01T22:13:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1_VccgD4UB4CpjytfnD4zS9wsUo",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz"
+        },
+        "snippet": {
+          "publishedAt": "2016-11-08T10:50:13Z",
+          "channelId": "UC_kvhNYJtP1-Ap67byTbfuw",
+          "title": "MOOC: Python (파이썬 강좌)",
+          "description": "K-MOOC 파이썬 가천대학교 TEAMLAB에서 운영하는 파이썬 입문용 강좌입니다. 키워드 - 파이썬 Python 입문 강의 강좌 MOOC.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EyAHKYqrEe8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EyAHKYqrEe8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EyAHKYqrEe8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TeamLab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-11-08T10:50:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NxVppvAQKy7MedFtjguFiz5xs5A",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLqftY2uRk7oXvERQEgATSr-KzAh8WLW_D"
+        },
+        "snippet": {
+          "publishedAt": "2019-02-07T06:20:15Z",
+          "channelId": "UCT6L5Ve1ApbzTqIQvE0O_QA",
+          "title": "NPTEL: Joy of computing using Python",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Y3Ri2GdYfYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Y3Ri2GdYfYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Y3Ri2GdYfYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "RAY P",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-02-07T06:20:15Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rN3IyRfTZpqO89uJulj_JlUvIQk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-23T09:29:35Z",
+          "channelId": "UCnrZ-UFSzeMSxKx_OHtwKsQ",
+          "title": "Belajar Python Bahasa Indonesia [Dasar]",
+          "description": "Mari kita bahas apa itu python dan kenapa harus belajar python. Kita akan bahas sejarah dan kelebihan python serta kenapa python begitu melejit di kancah ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SQ6dHC9msEA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SQ6dHC9msEA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SQ6dHC9msEA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Kelas Terbuka",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-23T09:29:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uTptKe94DIA-884NtHY5XxMKsds",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw"
+        },
+        "snippet": {
+          "publishedAt": "2018-06-30T21:31:12Z",
+          "channelId": "UCh9nVJoWXmFb7sLApWGcLPQ",
+          "title": "Machine Learning Tutorial Python | Machine Learning For Beginners",
+          "description": "Machine learning tutorial playlist that is best suitable for a total beginner. It will start with basics of machine learning, cover various ML algorithms for regression ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gmvvaobm7eQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gmvvaobm7eQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gmvvaobm7eQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "codebasics",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-06-30T21:31:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-JnbhXMtgHPGrO34HO0V2WRnC9U",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-"
+        },
+        "snippet": {
+          "publishedAt": "2015-09-14T15:10:12Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Data Analysis with Python and Pandas",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Iqjy9UqKKuo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Iqjy9UqKKuo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Iqjy9UqKKuo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2015-09-14T15:10:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VoCXkQVxjhFapGYvR9-mpDKfU1U",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLu0W_9lII9ajLcqRcj4PoEihkukF_OTzA"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-03T12:33:33Z",
+          "channelId": "UCeVMnSShP_Iviwkknt83cww",
+          "title": "Python GUI: Tkinter Tutorial In Hindi 2019",
+          "description": "Learn to develop GUI using python with the help of Tkinter Module. This GUI Python Course is an updated course which will help you to develop python GUIs ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-Q4lm8eYulw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-Q4lm8eYulw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-Q4lm8eYulw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CodeWithHarry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-03T12:33:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5kgHPQiFzcG7jlPfJK5-fMkBpHI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc"
+        },
+        "snippet": {
+          "publishedAt": "2013-08-26T16:57:36Z",
+          "channelId": "UCripRddD4BnaMcU833ExuwA",
+          "title": "Python para Zumbis",
+          "description": "Curso básico de programação em Python.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YO58tXerKDc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YO58tXerKDc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YO58tXerKDc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Python para Zumbis",
+          "liveBroadcastContent": "none",
+          "publishTime": "2013-08-26T16:57:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6iz6YwLoAYl1BfZpJYTX12c-OVY",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH"
+        },
+        "snippet": {
+          "publishedAt": "2016-06-01T06:39:59Z",
+          "channelId": "UC1YOiz2oJ26hHrfBTpnrW-A",
+          "title": "Kurs Python 3",
+          "description": "Kurs języka programowania Python 3 dla totalnie początkujących.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NN5Pht2FRWs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NN5Pht2FRWs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NN5Pht2FRWs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Piotr Baja",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-06-01T06:39:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_VK1wgeGuGYpY4-55tN_wAKzxyY",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG"
+        },
+        "snippet": {
+          "publishedAt": "2018-09-05T07:29:25Z",
+          "channelId": "UCeVMnSShP_Iviwkknt83cww",
+          "title": "Machine Learning Tutorials For Beginners Using Python In Hindi",
+          "description": "In this series, I have covered various Machine learning techniques for beginners. I have tried to cover all the ML Algorithms like linear regression, support vector ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_u-PaJCpwiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_u-PaJCpwiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_u-PaJCpwiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CodeWithHarry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-09-05T07:29:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "htQbsCFFRvArMBrltKCTCB8fqno",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL"
+        },
+        "snippet": {
+          "publishedAt": "2017-11-19T01:23:21Z",
+          "channelId": "UC4UJ26WkceqONNF5S26OiVw",
+          "title": "Keras - Python Deep Learning Neural Network API",
+          "description": "This series will teach you how to use Keras, a neural network API written in Python. Each video focuses on a specific concept and shows how the full ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tDaGT4N4aCA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tDaGT4N4aCA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tDaGT4N4aCA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "deeplizard",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-11-19T01:23:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8XuMnmrFdOMYK-Ok1t5WCclfr9E",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-16T13:25:22Z",
+          "channelId": "UCkw4JCwteGrDHIsyIIKo4tQ",
+          "title": "Machine Learning Tutorial in Python | Edureka",
+          "description": "This Edureka playlist on \"Machine Learning Tutorial in Python\" helps you gain expertise in various types of machine learning algorithms like supervised, ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GwIo3gDZCVQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "edureka!",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-16T13:25:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7mjZH4708qvoh12GA2TxMR86SKk",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLhTjy8cBISEqkN-5Ku_kXG4QW33sxQo0t"
+        },
+        "snippet": {
+          "publishedAt": "2019-01-17T16:52:09Z",
+          "channelId": "UCirPbvoHzD78Lnyll6YYUpg",
+          "title": "Python Web Scraping &amp; Crawling using Scrapy",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ve_0h4Y8nuI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ve_0h4Y8nuI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ve_0h4Y8nuI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "buildwithpython",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-01-17T16:52:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gMjAPzWtzyHTUSGyYE7aiEtN4TE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3"
+        },
+        "snippet": {
+          "publishedAt": "2014-12-22T23:54:40Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Scikit-learn Machine Learning with Python and SKlearn",
+          "description": "How to use Scikit-learn (sklearn) with the python programming language to do Machine Learning with Support Vector Machines. Covered specifically here, we ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/URTZ2jKCgBc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/URTZ2jKCgBc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/URTZ2jKCgBc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-12-22T23:54:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3ZGX3X22FpVCDhYC2DOMWYuG6k0",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLK6Whnd55IH5i1klkNSBDasIaO77l-Bm9"
+        },
+        "snippet": {
+          "publishedAt": "2018-03-11T16:47:57Z",
+          "channelId": "UCqMYDjUgPT1Ad-LBQaTtyXA",
+          "title": "Sıfırdan İleri Seviye Profesyonel Python Yazılım Geliştiricisi Olma Kursu",
+          "description": "Bu ders serisiyle birlikte, en çok kullanılan popüler programlama dillerinden olan Python dilini A-Z'ye öğreneceksiniz. İstediğiniz ve hayal ettiğiniz projeleri ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/llIQYBIAs9A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/llIQYBIAs9A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/llIQYBIAs9A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Mert Mekatronik",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-03-11T16:47:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jXsfBJiE1LjhrogL2TZOtNYqZ6Q",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf"
+        },
+        "snippet": {
+          "publishedAt": "2018-07-23T04:19:18Z",
+          "channelId": "UCeVMnSShP_Iviwkknt83cww",
+          "title": "[Hindi] Web Development Using Flask and Python",
+          "description": "In this video series I have tried to explain you how to build a website using python3, how to use python flask to create a website and how to host a python flask ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DD3ou9sa3Z8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DD3ou9sa3Z8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DD3ou9sa3Z8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CodeWithHarry",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-07-23T04:19:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OJw1vzG2-gkzNXG4NHzMYHk2x3U",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-11T14:17:05Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Deep Learning basics with Python, TensorFlow and Keras",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wQ8BIBpya2k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wQ8BIBpya2k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wQ8BIBpya2k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-11T14:17:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A7YbI4CnPGT7Ao9FoWSlXhVUFi8",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLEtcGQaT56chpYflEjBWRodHJNJN8EKpO"
+        },
+        "snippet": {
+          "publishedAt": "2014-03-24T21:31:11Z",
+          "channelId": "UCbr0g_ADLsdzhcoAFUZkuug",
+          "title": "Aprender a programar con Python para niños",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oKQMoxJR5uk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oKQMoxJR5uk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oKQMoxJR5uk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Jesús Conde",
+          "liveBroadcastContent": "none",
+          "publishTime": "2014-03-24T21:31:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6fJP0rltuQpZ_ddsA-yXYnO6wuI",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLS1QulWo1RIYt4e0WnBp-ZjCNq8X0FX0J"
+        },
+        "snippet": {
+          "publishedAt": "2018-08-27T15:42:01Z",
+          "channelId": "UCs6nmQViDpUw0nuIx9c_WvA",
+          "title": "Python 3 Tutorial for Beginners",
+          "description": "How To Code in Python 3.Welcome to the Course On Python 3 Tutorial for Beginners. Feel the real power of Python and programming! The course offers you a ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mpnBNGOSplA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mpnBNGOSplA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mpnBNGOSplA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ProgrammingKnowledge",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-08-27T15:42:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Sa6a57iZcgAR_WWqC0PAv8R7w88",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLMS9Cy4Enq5JmIZtKE5OHJCI3jZfpASbR"
+        },
+        "snippet": {
+          "publishedAt": "2018-05-07T18:52:55Z",
+          "channelId": "UCIHVyohXw6j2T-83-uLngEg",
+          "title": "APPRENDRE LE PYTHON",
+          "description": "Envie d'apprendre le python ? Ce langage de programmation ralliant simplicité et performance et idéal pour toutes les personnes souhaitant commencer le ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/psaDHhZ0cPs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/psaDHhZ0cPs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/psaDHhZ0cPs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Graven - Développement",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-05-07T18:52:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5BQkWz4fRCutsp0GMMPKl5DU774",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL0lO_mIqDDFXx5_8RmAqAmD_Cdb9DV-H5"
+        },
+        "snippet": {
+          "publishedAt": "2017-10-24T10:20:58Z",
+          "channelId": "UCvuY904el7JvBlPbdqbfguw",
+          "title": "Создание сайта на Django / Уроки Python Django",
+          "description": "В этом видео курсе мы с вами научимся создавать полноценные веб сайты с использованием технологии Django. Django это одна из самых ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FZAO72uTj0M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FZAO72uTj0M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FZAO72uTj0M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Гоша Дударь",
+          "liveBroadcastContent": "none",
+          "publishTime": "2017-10-24T10:20:58Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wvSFFeRFGVOrJL_hrRIMjQxyxbc",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS"
+        },
+        "snippet": {
+          "publishedAt": "2020-01-08T16:44:09Z",
+          "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+          "title": "Pandas Tutorials",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZyhVh-qRZPA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Corey Schafer",
+          "liveBroadcastContent": "none",
+          "publishTime": "2020-01-08T16:44:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PXWU-nRsB9DXy4fqW00LOaNsIiA",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PL3pGy4HtqwD02GVgM96-V0sq4_DSinqvf"
+        },
+        "snippet": {
+          "publishedAt": "2018-01-26T10:19:59Z",
+          "channelId": "UC5NM5NZrw1hV6hgxnaPQPNw",
+          "title": "Python - Data Structures &amp; Algorithms (NPTEL)",
+          "description": "These videos are from an 8-week course offered by NPTEL. This is a perfect place to get started with programming if you are a newbie. However, this isn't your ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9MmC_uGjBsM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9MmC_uGjBsM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9MmC_uGjBsM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chaitanya Tejaswi",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-01-26T10:19:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6CYciDgmdA1MTuKzWDOyR82veeE",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLhTjy8cBISErYuLZUvVOYsR1giva2payF"
+        },
+        "snippet": {
+          "publishedAt": "2018-11-20T12:43:51Z",
+          "channelId": "UCirPbvoHzD78Lnyll6YYUpg",
+          "title": "Python Network Programming - TCP/IP Socket Programming",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6jteAOmdsYg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6jteAOmdsYg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6jteAOmdsYg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "buildwithpython",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-11-20T12:43:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WhT9HDE5BxpsPqepA2MEOC6Kc3o",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLUDwpEzHYYLvx6SuogA7Zhb_hZl3sln66"
+        },
+        "snippet": {
+          "publishedAt": "2018-10-06T15:10:18Z",
+          "channelId": "UC46vj6mN-6kZm5RYWWqebsg",
+          "title": "Selenium with Python",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IYILCEV5j6s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IYILCEV5j6s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IYILCEV5j6s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SDET - QA Automation Techie",
+          "liveBroadcastContent": "none",
+          "publishTime": "2018-10-06T15:10:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xMHmU_Xn9ilixdBDBuQjbwdDMCo",
+        "id": {
+          "kind": "youtube#playlist",
+          "playlistId": "PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_"
+        },
+        "snippet": {
+          "publishedAt": "2016-11-01T14:15:22Z",
+          "channelId": "UCfzlCWGWYyIQ0aLC5w48gBQ",
+          "title": "Intermediate Python Programming",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YSe9Tu_iNQQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YSe9Tu_iNQQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YSe9Tu_iNQQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "sentdex",
+          "liveBroadcastContent": "none",
+          "publishTime": "2016-11-01T14:15:22Z"
+        }
+      }
+    ]
+  }
