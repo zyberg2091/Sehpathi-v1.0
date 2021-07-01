@@ -1,1 +1,2 @@
-# Sehpathi-v1.0 - Showing right path to aspiring developers
+# Sehpathi-v1.0 
+### Unveiling best learning path to aspiring developers
