@@ -56,7 +56,7 @@ class DB_helper():
         self.con.commit()
         print("data deleted")
 
-if __name__=='__main__':
+"""if __name__=='__main__':
     db=DB_helper(host='localhost',port=3306,user='root',passwd='password123',database='My_DB')
     # db.insert_val(111,'sachin','js', 'javascript for beginners', "python for beginners,Machine learning in python")
-    # print(db.fetch_input(111))
+    # print(db.fetch_input(111))"""
