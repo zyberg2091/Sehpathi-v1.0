@@ -30,6 +30,5 @@ class Data_Engine():
 
     
 
-pydata=Data_Engine('python','Python files/pycourse1.json','Python files/pycourse2.json','Python files/pycourse3.json','Python files/pycourse4.json','Python files/pycourse5.json')
-
-pydata.data_prep()
+"""pydata=Data_Engine('python','Python files/pycourse1.json','Python files/pycourse2.json','Python files/pycourse3.json','Python files/pycourse4.json','Python files/pycourse5.json')
+pydata.data_prep()"""
