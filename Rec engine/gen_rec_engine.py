@@ -110,7 +110,7 @@ class Rec_Engine():
 
 
 
-if __name__=='__main__':
+"""if __name__=='__main__':
 
 
   py_data=pd.read_csv('pystat_new.csv')
@@ -123,7 +123,7 @@ if __name__=='__main__':
   x3,y3=sql_data['course'].values,sql_data['channel_name'].values
   user_input=str(input('course searched : \n'))
   engine=Rec_Engine(cosine_similarity, ratio)
-  print(engine(user_input,x1,x2,x3,y1,y2,y3))
+  print(engine(user_input,x1,x2,x3,y1,y2,y3))"""
 
 
 
