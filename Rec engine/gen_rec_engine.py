@@ -34,7 +34,7 @@ class Rec_Engine():
       user_encoding=model.encode([user_input])
 
       for i,encoding in enumerate(encodings_database):
-        sim_score=self.cosine_similarity(user_encoding,[encoding])
+        sim_score=cosine_similarity(user_encoding,[encoding])
         scores[i]=sim_score
 
       best_score=max(scores.values())
